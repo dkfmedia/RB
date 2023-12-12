@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  font-family: "Archivo Black", sans-serif;
+}
+
+.color {
+  font-weight: bold;
+  text-decoration: underline;
+}
